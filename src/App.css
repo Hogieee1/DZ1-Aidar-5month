@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Header {
+  background-color: #eee;
+  color: black;
+  padding: 1em;
+}
+
+.Main {
+  margin-top: 150px;
+  margin-bottom: 150px;
+  background-color: #eee;
+  color: black;
+  padding: 1em;
+}
+
+.Footer {
+  background-color: #eee;
+  color: black;
+  padding: 1em;
+}
+
+
